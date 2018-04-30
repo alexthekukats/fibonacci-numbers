@@ -1,0 +1,11 @@
+F:\Users\Alex\Documents\C# Progik\Fibonacci számok\Fibonacci számok\bin\Debug\Fibonacci számok.exe
+F:\Users\Alex\Documents\C# Progik\Fibonacci számok\Fibonacci számok\bin\Debug\Fibonacci számok.pdb
+F:\Users\Alex\Documents\C# Progik\Fibonacci számok\Fibonacci számok\obj\Debug\ResolveAssemblyReference.cache
+F:\Users\Alex\Documents\C# Progik\Fibonacci számok\Fibonacci számok\obj\Debug\Fibonacci számok.exe
+F:\Users\Alex\Documents\C# Progik\Fibonacci számok\Fibonacci számok\obj\Debug\Fibonacci számok.pdb
+D:\Mentes\Alex_old\C# Progik\Fibonacci számok\Fibonacci számok\bin\Debug\Fibonacci számok.exe
+D:\Mentes\Alex_old\C# Progik\Fibonacci számok\Fibonacci számok\bin\Debug\Fibonacci számok.pdb
+D:\Mentes\Alex_old\C# Progik\Fibonacci számok\Fibonacci számok\obj\Debug\Fibonacci számok.csprojResolveAssemblyReference.cache
+D:\Mentes\Alex_old\C# Progik\Fibonacci számok\Fibonacci számok\obj\Debug\Fibonacci számok.csproj.CoreCompileInputs.cache
+D:\Mentes\Alex_old\C# Progik\Fibonacci számok\Fibonacci számok\obj\Debug\Fibonacci számok.exe
+D:\Mentes\Alex_old\C# Progik\Fibonacci számok\Fibonacci számok\obj\Debug\Fibonacci számok.pdb
